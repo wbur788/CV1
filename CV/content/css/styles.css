@@ -102,8 +102,8 @@ li {
     text-decoration: none;
 }
 
-#socialMedia #ig{
-    background-image: url('../img/instagram.svg');
+#socialMedia #github{
+    background-image: url('../img/octicons-mark-github.svg');
     background-repeat: no-repeat;
     padding-left: 25px;
     padding-bottom:2px;
@@ -286,3 +286,18 @@ li {
     margin-left: 10px;
 }
 
+.hobbies img {
+    height: 150px;
+}
+
+
+.hobbies {
+    color: #475a96;
+    font-size: 16px;
+    margin-left: -8px;
+    font-weight: bold;
+}
+
+.description ul{
+    list-style: none;
+}
